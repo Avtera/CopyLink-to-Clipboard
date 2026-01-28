@@ -1,11 +1,21 @@
 # CopyLink-to-Clipboard
+Fake Browser/Dummy Browser/Imaginary Browser to copy web link instead open it directly
+
+### 👀 Good for those who are..
+- Annoyed by a random browser window opening after program installation
+- Annoyed by a random browser window opening after clicking a Windows menu
+- Privacy concern
+- Phishing concern
+- Uses more than 1 browser
 
 ### Installation
 - install python
-- install requirements
-- build the .py to .exe
-- build command:
-``pyinstaller --onefile --noconsole --name CopyLinktoClipboard --collect-all win10toast copylinktoclipboard.py``
-- copy the built CopyLinktoClipboard.exe to the folder of install.bat located
-- run install.bat
+- clone repo/download as zip
+- run `1. requirements.bat`
+- run `2. build.bat`
+- run `3. install.bat`
 - done
+
+### Removal
+- run `uninstall.reg`
+- delete the remaining files
