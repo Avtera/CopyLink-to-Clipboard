@@ -1,5 +1,5 @@
 # CopyLink-to-Clipboard
-Fake Browser/Dummy Browser/Imaginary Browser to copy the web link instead of opening it directly
+Fake Browser/Dummy Browser/Imaginary Browser to trick the windows to copy the web link instead of opening it directly
 
 ### 👀 Good for those who are..
 - Annoyed by a random browser window opening after program installation
