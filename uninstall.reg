@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+
+; Remove Default Programs registration
+[-HKEY_LOCAL_MACHINE\SOFTWARE\RegisteredApplications\CopyLinktoClipboard]
+
+; Remove application capabilities
+[-HKEY_LOCAL_MACHINE\SOFTWARE\CopyLinktoClipboard]
+
+; Remove URL handler class
+[-HKEY_LOCAL_MACHINE\Software\Classes\CopyLinktoClipboard]
