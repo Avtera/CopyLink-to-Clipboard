@@ -13,7 +13,7 @@ Fake Browser/Dummy Browser/Imaginary Browser to copy the web link instead of ope
 - clone repo/download as zip
 - run `1. requirements.bat`
 - run `2. build.bat`
-- run `3. install.bat`
+- run `3. install.bat` as admin
 - done
 
 ### Removal
