@@ -1,6 +1,5 @@
 # CopyLink-to-Clipboard
 Fake Browser/Dummy Browser/Imaginary Browser to copy the web link instead of opening it directly
-<img width="408" height="218" alt="image" src="https://github.com/user-attachments/assets/ada23c8f-6c85-4378-8e42-828ea9abd48f" />
 
 ### 👀 Good for those who are..
 - Annoyed by a random browser window opening after program installation
@@ -9,7 +8,10 @@ Fake Browser/Dummy Browser/Imaginary Browser to copy the web link instead of ope
 - Phishing concern
 - Uses more than 1 browser
 
-### Installation
+### 🖼 Screenshot
+<img width="408" height="218" alt="image" src="https://github.com/user-attachments/assets/ada23c8f-6c85-4378-8e42-828ea9abd48f" />
+
+### ⭐ Installation (as easy as possible)
 - install python
 - clone repo/download as zip
 - run `1. requirements.bat`
