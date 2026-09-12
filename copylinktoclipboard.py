@@ -1,14 +1,8 @@
-import sys
-import pyperclip
-from win10toast import ToastNotifier
+from winotify import Notification
+import pyperclip, sys
 
-if len(sys.argv) < 2:
-    sys.exit(0)
-
-url = sys.argv[1]
+url = sys.argv[1] if len(sys.argv) > 1 else sys.exit(0)
 pyperclip.copy(url)
 
-ToastNotifier().show_toast(
-    "Link Copied!",
-    f"URL: {url}",
-)
+toast = Notification(app_id="Link Copier", title="Link Copied!", msg=f"URL: {url}")
+toast.show()
